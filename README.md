@@ -2,7 +2,8 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-
+Need to copy from the // 4.	On the Status badge pane, click the Copy to clipboard button for Sample Markdown. But here Anand cant because 
+##[error]No hosted parallelism has been purchased or granted. To request a free parallelism grant, please fill out the following form https://aka.ms/azpipelines-parallelism-request 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
